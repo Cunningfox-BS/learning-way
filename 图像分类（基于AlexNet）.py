@@ -12,7 +12,7 @@ import torchvision.transforms as transforms
 
 
 BATCH_SIZE=256
-EPOCH=10
+EPOCH=100
 
 
 class AlexNet(nn.Module):
